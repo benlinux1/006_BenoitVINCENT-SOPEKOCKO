@@ -80,6 +80,7 @@ L'application devait uniquement être disponible en **Français**.
 
 
 ### Fiche produit
+
 ![Fiche produit](https://github.com/benlinux1/BenoitVINCENT_6_21012021/assets/78255467/0a97a987-0bb6-4b84-9d06-abfa4ffd9383)
 
 
@@ -88,38 +89,35 @@ L'application devait uniquement être disponible en **Français**.
 
 ### Inscription utilisateur
 
-https://github.com/benlinux1/BenoitVINCENT_6_21012021/assets/78255467/33d94378-1880-4c36-af90-7ead8ae97a51
+
 
 
 ### Authentification utilisateur
 
-https://github.com/benlinux1/BenoitVINCENT_6_21012021/assets/78255467/3fa27647-4912-411a-b1a3-28a80186dec6
+
 
 
 ### Création d'un produit
 
-https://github.com/benlinux1/BenoitVINCENT_6_21012021/assets/78255467/f2b50f1b-9a9e-46ca-960d-e078619ded3f
+
 
 
 ### Like / Dislike d'un produit
 
-https://github.com/benlinux1/BenoitVINCENT_6_21012021/assets/78255467/533c03af-fa41-49f4-a977-d5b1a8333ee9
 
 
 
-https://github.com/benlinux1/BenoitVINCENT_6_21012021/assets/78255467/584d0931-60b1-4d16-89f4-9fe51296bdb4
+
 
 
 ### Modification d'un produit
 
-https://github.com/benlinux1/BenoitVINCENT_6_21012021/assets/78255467/c4050ff6-3e63-4979-bbcb-b808dff7e4a6
 
-https://github.com/benlinux1/BenoitVINCENT_6_21012021/assets/78255467/e184131d-4115-43a5-a00c-44f3b5a76554
 
 
 ### Suppression d'un produit 
 
-https://github.com/benlinux1/BenoitVINCENT_6_21012021/assets/78255467/4be881f2-d805-4966-be3f-a10286c8f956
+
 
 
 
