@@ -74,8 +74,14 @@ L'application devait uniquement être disponible en **Français**.
 
 ## Captures d'écran
 
+### Accueil / Catalogue
+
 ![Visuel Index](https://github.com/benlinux1/BenoitVINCENT_6_21012021/assets/78255467/54c9165c-5173-4d97-b0a3-7aa93a2da342)
+
+
+### Fiche produit
 ![Fiche produit](https://github.com/benlinux1/BenoitVINCENT_6_21012021/assets/78255467/0a97a987-0bb6-4b84-9d06-abfa4ffd9383)
+
 
 
 ## Démonstration vidéo
