@@ -12,7 +12,7 @@ Ce dépôt contient le site web pour le P6 du parcours **DEVELOPPEUR WEB**, inti
 SoPecocko souhaite lancer une application web de gestion et notation de sauce piquante.
 L'objectif de ce projet consistait en la création de la partie back-end sécurisée de l'application, en Javascript & Typescript.
 L'utilisation d'Express.js était requise par le client.
-Le stockage des données devait être réalisé en utilisant une base NoSQL MongoDB
+Le stockage des données devait être réalisé en utilisant une base NoSQL MongoDB.
 La partie front-end avait été développée via Angular.
 
 
