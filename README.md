@@ -89,44 +89,33 @@ L'application devait uniquement être disponible en **Français**.
 
 ### Inscription utilisateur
 
-
+https://github.com/benlinux1/BenoitVINCENT_6_21012021/assets/78255467/7d810f53-18b7-4ef5-8eea-91aaaffb3358
 
 
 ### Authentification utilisateur
 
-
+https://github.com/benlinux1/BenoitVINCENT_6_21012021/assets/78255467/c24b5f69-a533-475d-bff2-3f0f3b76d5f9
 
 
 ### Création d'un produit
+
+https://github.com/benlinux1/BenoitVINCENT_6_21012021/assets/78255467/190fd41b-8672-4910-94f5-90504461c53d
 
 
 
 
 ### Like / Dislike d'un produit
 
-
-
-
-
+https://github.com/benlinux1/BenoitVINCENT_6_21012021/assets/78255467/09ec5265-442f-480b-86c6-d2f9b17913a6
 
 
 ### Modification d'un produit
 
-
+https://github.com/benlinux1/BenoitVINCENT_6_21012021/assets/78255467/ccc22354-c825-4d0d-8314-97adc39fc0ba
 
 
 ### Suppression d'un produit 
 
-
-
-
-
-
-
-
-
-
-
-
+https://github.com/benlinux1/BenoitVINCENT_6_21012021/assets/78255467/70533a42-826b-4f68-a083-ece249e67bb9
 
 
