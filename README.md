@@ -1,3 +1,5 @@
+![benoit-vincent-piquante-!](https://github.com/benlinux1/006_BenoitVINCENT-SOPEKOCKO/assets/78255467/a2d8f812-b9a0-44e0-b268-6e4c559b59d8)![fullstack-development-node-_-express-_-mongodb-_-angular](https://github.com/benlinux1/006_BenoitVINCENT-SOPEKOCKO/assets/78255467/a800362c-9a9a-4748-acd9-805355033383)
+
 # SO PEKOCKO
 Ce dépôt contient le site web pour le P6 du parcours **DEVELOPPEUR WEB**, intitulé **SoPekocko - Piquante**.
 
